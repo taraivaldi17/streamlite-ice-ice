@@ -6,3 +6,4 @@ scikit-image
 streamlit
 opencv-python-headless
 Pillow
+pip==24.0

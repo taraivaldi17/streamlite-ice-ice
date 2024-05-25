@@ -1,0 +1,13 @@
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn
+skimage
+pickle
+streamlit
+os
+cv2
+scipy
+PIL
+zipfile
+io
+pip==24.0
